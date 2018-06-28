@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "barcode_number": "300819600270",
+      "barcode_type": "UPC",
+      "barcode_formats": "UPC 300819600270, EAN 0300819600270",
+      "mpn": "0030081960027",
+      "model": "",
+      "asin": "",
+      "product_name": "Sudafed Non-Drowsy, 24 Hour Long-Acting Nasal Decongestant Tablets, 240mg, 10 count",
+      "title": "",
+      "category": "Animals & Pet Supplies > Pet Supplies > Pet Medicine",
+      "manufacturer": "McNeil Consumer Healthcare Division Of McNeil-PPC, Inc.",
+      "brand": "Sudafed",
+      "label": "",
+      "author": "",
+      "publisher": "",
+      "artist": "",
+      "actor": "",
+      "director": "",
+      "studio": "",
+      "genre": "",
+      "audience_rating": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "color": "",
+      "format": "",
+      "package_quantity": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Sudafed Non-Drowsy: Temporarily relieves nasal decongestion due to the common cold, hay fever or other upper respiratory allergiesReduces swelling of nasal passagesRelieves sinus pressureNon-drowsy",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/3149/31494563-1.jpg"
+      ],
+      "stores": [
+        {
+          "store_name": "Wal-Mart.com USA, LLC",
+          "store_price": "8.98",
+          "product_url": "http://www.walmart.com/ip/Sudafed-Non-Drowsy-24-Hour-Long-Acting-Nasal-Decongestant-Tablets-240mg-10-count/10294307",
+          "currency_code": "USD",
+          "currency_symbol": "$"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
